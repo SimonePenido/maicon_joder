@@ -732,6 +732,18 @@ section[id] {
     align-items: center;
 }
 
+.transitionimage {
+    background-image: url("../images/imgespelho.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    height: 30em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* 12. FOOTER */
 .footer {
     background: var(--color-deepest);
